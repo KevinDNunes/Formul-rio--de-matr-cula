@@ -14,7 +14,7 @@
   --brand-dark: #E43A12;
 
   --text-primary: #292524;
-  --text-secondary: #57564E;
+  --text-secondary: #57534E;
   --text-tertiary: #8F8881;
   --text-highlight: #E43A12;
 
@@ -29,4 +29,10 @@
 
 body {
   overflow: hidden;
+  font: var(--text);
+  color: var(--text-secondary);
+}
+
+h1, h2 {
+  color: var(--text-primary);
 }

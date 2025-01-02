@@ -52,3 +52,11 @@ select {
   no-repeat calc(100% - 1rem);
 }
 
+.textarea-wrapper {
+  margin-top: 1.5rem;
+}
+
+#medical-info {
+  margin-top: 0.3rem;
+}
+
